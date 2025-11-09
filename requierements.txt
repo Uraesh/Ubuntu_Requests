@@ -1,0 +1,9 @@
+```
+requests>=2.31.0
+```
+
+Python Standard Library Dependencies
+- `os` - File and directory operations
+- `hashlib` - MD5 hashing for duplicate detection
+- `pathlib` - Modern path handling
+- `urllib.parse` - URL parsing
